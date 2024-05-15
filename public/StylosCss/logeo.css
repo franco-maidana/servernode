@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  width: 400px;
+  padding: 20px;
+  margin-top: 25px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.container h2 {
+  text-align: center;
+}
+.container form {
+  display: flex;
+  flex-direction: column;
+}
+.container form input {
+  margin-bottom: 10px;
+  padding: 8px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+.container form input[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+.container form input[type="submit"]:hover {
+  background-color: #0056b3;
+}

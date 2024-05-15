@@ -1,0 +1,11 @@
+<div class="d-flex flex-wrap justify-content-evely" >
+    {{#each products}}
+    <div class="card" style="width: 18rem;">
+      <img src={{this.photo}} class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">{{this.title}}</h5>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+      </div>
+    </div>
+    {{/each}}
+</div>

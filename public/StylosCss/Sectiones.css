@@ -1,0 +1,7 @@
+.Sectiones {
+  background-color: aqua;
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  padding-right: 5px;
+}

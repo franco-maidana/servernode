@@ -1,0 +1,73 @@
+[
+  {
+    "id": "5645aee620c0f49ca3a28fdf",
+    "title": "Pantalones",
+    "photo": "https://acdn.mitiendanube.com/stores/001/680/925/products/_dsc31113-copia1-b49fe067f8f26cbcca16922962902555-320-0.webp",
+    "price": 250,
+    "stock": 5
+  },
+  {
+    "id": "72c962d0af78a0f380586f96",
+    "title": "Remera musculosa",
+    "photo": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQXAgGJZOcvdJvkndoT1dDYR-0AKRfKmWveQIPHdUQ6z87NmbRw7ZCmPRM8zd3TeZLRDMWtHHtKf3dge34joSFBTcfTw9rmB9Me8cRIAv5FDYLwb-6axPNY&usqp=CAc",
+    "price": 450,
+    "stock": 25
+  },
+  {
+    "id": "8d6d74c81050ac7076907e7e",
+    "title": "Pantalones jogging",
+    "photo": "https://acdn.mitiendanube.com/stores/001/680/925/products/mom-laser-221-98e0aa361c9412568516832302817110-320-0.webp",
+    "price": 250,
+    "stock": 5
+  },
+  {
+    "id": "8afd4db4c49d06cc78f5ed27",
+    "title": "Remera Con Dibujos",
+    "photo": "https://acdn.mitiendanube.com/stores/440/495/products/remera-de-autos-y-fierros-mod-12-adelante-89737c5b158e8059c017039551154303-1024-1024.webp",
+    "price": 450,
+    "stock": 50
+  },
+  {
+    "id": "c6ef639108a2385528f6b257",
+    "title": "Remera Con Lineas",
+    "photo": "https://acdn.mitiendanube.com/stores/001/180/816/products/tucson-tee-azul-1-e084ad8a325b4c533e16981629871599-320-0.jpg",
+    "price": 350,
+    "stock": 10
+  },
+  {
+    "id": "f7f94682f6b83ad9c12abfeb",
+    "title": "buzos Gap",
+    "photo": "https://acdn.mitiendanube.com/stores/985/414/products/137742ee-a1e2-4c8b-b764-c8d50e605ccd-88167d6f94e69810e517039479586363-320-0.webp",
+    "price": 250,
+    "stock": 10
+  },
+  {
+    "id": "2a28f6081a22cd840c646c9d",
+    "title": "buzos Gap",
+    "photo": "https://acdn.mitiendanube.com/stores/985/414/products/img_9185-5f77b0af1dbfb26c9317019054833196-320-0.webp",
+    "price": "240",
+    "stock": "18"
+  },
+  {
+    "id": "87c3bdcd3f5e25165599f887",
+    "title": "Camisa",
+    "photo": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJeq2G5jJfQW2gbJI3wcbuuMrqhMsk9pPxABs_Boxc7f1Vx8dA_HP8mxx1Ttx3qjUrEP4VUrnwhTH513DK7fN3btxSba5p3WH5v9jSQjeno1TQ3qWA0JvbYw&usqp=CAc",
+    "price": "120",
+    "stock": "7"
+  },
+  {
+    "id": "f616373aef4481e8694a330a",
+    "title": "Remeras Nike",
+    "photo": "https://nikearprod.vtexassets.com/arquivos/ids/679866-1000-1000?v=638224545061930000&width=1000&height=1000&aspect=true",
+    "price": "35",
+    "stock": "10"
+  },
+  {
+    "id": "32aa5a192eaf38f06e3c10b8",
+    "title": "Buzo Gap creado en FS",
+    "photo": "Random",
+    "price": "18",
+    "stock": "12",
+    "date": "2024-03-29T01:48:51.539Z"
+  }
+]

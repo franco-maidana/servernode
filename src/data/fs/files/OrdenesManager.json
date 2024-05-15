@@ -1,0 +1,54 @@
+[
+  {
+    "id": "90bf506a62e6a6c7dd0aac10",
+    "uid": "idUsuario123",
+    "state": "reservado",
+    "quantity": 2,
+    "pid": "idProducto789"
+  },
+  {
+    "id": "620aa401eb94f8b81394e1b2",
+    "uid": "idUsuario456",
+    "state": "confirmado",
+    "quantity": 4,
+    "pid": "idProducto0123"
+  },
+  {
+    "_id": "7872319af42d86bb2b811384",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "quantity": 1,
+    "state": "reserved",
+    "updatedAt": "2024-03-30T03:52:46.722Z",
+    "createdAt": "2024-03-30T03:52:46.722Z"
+  },
+  {
+    "_id": "a303b730724b8eccdab2bfbd",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "quantity": 1,
+    "state": "reserved",
+    "updatedAt": "2024-03-30T03:53:57.712Z",
+    "createdAt": "2024-03-30T03:53:57.712Z"
+  },
+  {
+    "_id": "0f8b8175f0e13b0005e108ff",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "quantity": 1,
+    "state": "reserved",
+    "updatedAt": "2024-03-30T03:55:36.958Z",
+    "createdAt": "2024-03-30T03:55:36.958Z"
+  },
+  {
+    "_id": "e7744be075ad4de9e78af5b6",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "state": "reserved",
+    "updatedAt": "2024-03-30T03:56:05.606Z",
+    "createdAt": "2024-03-30T03:56:05.606Z"
+  },
+  {
+    "_id": "67bf29a8a1825876d57237fa",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "state": "reserved",
+    "updatedAt": "2024-03-30T03:58:16.579Z",
+    "createdAt": "2024-03-30T03:58:16.579Z"
+  }
+]
