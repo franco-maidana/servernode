@@ -1,6 +1,3 @@
-import CustomError from "../../utils/errors/CustomError.utils.js";
-import errors from "../../utils/errors/error.js";
-import logger from "../../utils/logger/index.js";
 import { Types } from "mongoose";
 
 class MongoManager {
@@ -32,6 +29,7 @@ class MongoManager {
     }
   }
 
+  // reportar la cuenta
   async reportBill(uid) {
     try {
       const report = await this.model.aggregate([
@@ -69,50 +67,6 @@ class MongoManager {
     }
   }
 
-  //report(uid){} => en mongo calcular el total a pagar por un usuario por todos sus productos
-
-  async report(uid) {
-    try {
-      const report = await this.model.aggregate([
-        { $match: { user_id: new Types.ObjectId(uid) } },
-        {
-          $lookup: {
-            from: "products",
-            foreignField: "_id",
-            localField: "products_id",
-            as: "products_id",
-          },
-        },
-        {
-          $replaceRoot: {
-            newRoot: {
-              $mergeObjects: [{ $arrayElemAt: ["$products_id", 0] }, "$$ROOT"],
-            },
-          },
-        },
-        { $set: { subTotal: { $multiply: ["$quantity", "$price"] } } },
-        { $group: { _id: "$user_id", total: { $sum: "$subTotal" } } },
-        {
-          $project: {
-            _id: 0,
-            user_id: "$_id",
-            total: "$total",
-            date: new Date(),
-            currency: "USD",
-          },
-        },
-      ]);
-
-      // Agregar registros de depuración para imprimir el resultado
-      logger.INFO("Reporte generado:", report);
-
-      return report;
-    } catch (error) {
-      logger.ERROR("Error en la consulta de reporte:", error);
-      throw error;
-    }
-  }
-
   async readOne(id) {
     if (!id) {
       throw new Error("El ID no es válido");
@@ -126,10 +80,13 @@ class MongoManager {
   }
 
   async update(id, data) {
+    console.log("esto es el id ", id);
+    console.log("esto es el data ", data);
     try {
-      const opt = { new: true };
-      const one = await this.model.findByIdAndUpdate(id, data, opt);
-      // CustomError.new(errors.notFound);
+      //const opt = { new: true };
+      //console.log("esto es opt", opt);
+      const one = await this.model.findByIdAndUpdate(id, data, {new: true});
+      console.log("one", one);
       return one;
     } catch (error) {
       throw error;
@@ -141,7 +98,6 @@ class MongoManager {
       const one = await this.model.findByIdAndDelete(id);
       return one;
     } catch (error) {
-      // CustomError.new(errors.invalidId);
       throw error;
     }
   }
@@ -158,6 +114,7 @@ class MongoManager {
   async stats({ filter }) {
     try {
       let stats = await this.model.find(filter).explain("executionStats");
+      console.log(stats);
       stats = {
         quantity: stats.executionStats.nReturned,
         time: stats.executionStats.executionTimeMillis,

@@ -1,4 +1,7 @@
 import OrderService from "../services/order.service.js";
+import CustomError from "../utils/errors/CustomError.utils.js";
+import errors from "../utils/errors/error.js";
+import Orden from "../data/mongo/orders.mongo.js";
 
 class OrdersControllers {
   constructor() {
@@ -30,6 +33,8 @@ class OrdersControllers {
       if (req.query.sort === "desc") {
         orderAndPaginate.sort.title = "desc";
       }
+
+      console.log("Entró aquí");
       const all = await this.OrderService.read({ filter, orderAndPaginate });
       if (all.docs.length > 0) {
         return res.success200(all);
@@ -40,20 +45,11 @@ class OrdersControllers {
     }
   };
 
-  report = async (req, res, next) => {
-    try {
-      const { uid } = req.params;
-      const report = await this.OrderService.report(uid);
-      return res.success201(report);
-    } catch (error) {
-      return next(error);
-    }
-  };
-
   readOne = async (req, res, next) => {
     try {
       const { uid } = req.params;
       const all = await this.OrderService.readOne(uid);
+      console.log("Esto es all ",all)
       if (all) {
         return res.success200(all);
       }
@@ -89,9 +85,22 @@ class OrdersControllers {
       return next(error);
     }
   };
+
+  async reportBill(req, res, next) {
+    try {
+      const {uid} = req.params
+      const report = await Orden.reportBill(uid)
+      return res.json({
+        statusCode: 200,
+        response: report
+      })
+    } catch (e) {
+      next(e);
+    }
+  }
 }
 
 export default OrdersControllers;
 const controlers = new OrdersControllers();
-const { create, read, readOne, report, update, destroy } = controlers;
-export { create, read, readOne, report, update, destroy };
+const { create, read, readOne, update, destroy,  reportBill } = controlers;
+export { create, read, readOne, update, destroy, reportBill  };

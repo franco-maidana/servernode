@@ -50,21 +50,4 @@ class UserManager {
 }
 
 const Usuarios = new UserManager();
-
-Usuarios.create({
-  name: "franco Maidana",
-  photo: "foto random uno",
-  email: "FrancoMaidana@gmail.com",
-});
-
-Usuarios.create({
-  name: "Sofia Gomez",
-  photo: "foto random dos",
-  email: "SofiaGomez@gmail.com",
-});
-
-Usuarios.create({
-  name: "Noelia Lopez",
-  photo: "foto random tres",
-  email: "NoeliaLopez@gmail.com",
-});
+export default Usuarios

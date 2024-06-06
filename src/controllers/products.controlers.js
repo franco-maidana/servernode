@@ -9,6 +9,7 @@ class ProductsControllers {
   create = async (req, res, next) => {
     try {
       const data = req.body;
+      data.owner_id = req.user._id;
       const response = await this.service.create(data);
       return res.success200(response);
     } catch (error) {
@@ -21,7 +22,7 @@ class ProductsControllers {
       const orderAndPaginate = {
         limit: req.query.limit || 10,
         page: req.query.page || 1,
-        sort: { title: 1 },
+        //sort: { title: 1 },
         lean: true,
       };
       const filter = {};
@@ -33,6 +34,7 @@ class ProductsControllers {
       }
 
       const all = await this.service.read({ filter, orderAndPaginate });
+      console.log("esto es all ", all);
       if (all.docs.length > 0) {
         return res.success200(all);
       }
@@ -57,9 +59,9 @@ class ProductsControllers {
 
   update = async (req, res, next) => {
     try {
-      const { uid } = req.params;
+      const { eid } = req.params;
       const data = req.body;
-      const one = await this.service.update(uid, data);
+      const one = await this.service.update(eid, data);
       return res.success201(one);
     } catch (error) {
       return next(error);

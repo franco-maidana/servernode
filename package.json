@@ -5,11 +5,18 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node ./server.js",
+    "start": "nodemon ./server.js",
     "dev": "nodemon ./server.js --env dev",
     "test": "nodemon ./server.js --env test",
-    "simplex": "artillery quick --count 40 --num 50 'http://localhost:8080/simplex' -o ./test/quick/simplex.json",
-    "complex": "artillery quick --count 40 --num 50 'http://localhost:8080/complex' -o ./test/quick/complex.json"
+    "simple": "artillery quick --count 40 --num 50 'http://localhost:8081/simplex' -o ./test/quick/simplex.json",
+    "complex": "artillery quick --count 40 --num 50 'http://localhost:8081/complex' -o ./test/quick/complex.json",
+    "performance": "artillery run ./test/flow/flow.yaml --output ./test/flow/flow.json",
+    "report": "artillery report ./test/flow/flow.json",
+    "image": "docker build -t simplex-contex .",
+    "conteiner": "docker run -p 8081:8081 simplex-contex",
+    "mocha": "mocha ./test/mocha",
+    "chai": "mocha ./test/chai",
+    "super": "mocha ./test/supertest"
   },
   "keywords": [],
   "author": "",
@@ -40,10 +47,16 @@
     "passport-local": "^1.0.0",
     "session-file-store": "^1.5.0",
     "socket.io": "^4.7.4",
+    "stripe": "^15.8.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0",
     "twilio": "^5.0.3",
     "winston": "^3.13.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.0"
+    "chai": "^5.1.1",
+    "mocha": "^10.4.0",
+    "nodemon": "^3.1.0",
+    "supertest": "^7.0.0"
   }
 }

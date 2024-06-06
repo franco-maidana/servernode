@@ -1,3 +1,5 @@
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'; // provisorio por no tener el certificado SSL en la PC 
+//desactivará la verificación de certificados para todas las conexiones TLS en tu aplicación. Aquí está cómo se vería:
 import env from "./src/utils/env.utils.js";
 import express from "express";
 import indexRouter from "./src/routers/index.router.js";
@@ -16,6 +18,13 @@ import cors from "cors";
 import compression from "express-compression";
 import winstom from "./src/middlewares/winston.mid.js";
 import logger from "./src/utils/logger/index.js";
+import cluster from "cluster"
+import { cpus } from "os";
+import swaggerJSDoc from "swagger-jsdoc";
+import {serve , setup } from "swagger-ui-express" 
+
+import options from "./src/utils/swagger.js";
+
 
 // server
 const server = express();
@@ -23,9 +32,26 @@ const PORT = env.PORT || 8080;
 const ready = () => {
   logger.INFO("server ready on port " + PORT);
 };
+//server.listen(PORT, ready);
 
-server.listen(PORT, ready);
+// Cluster
+console.log(cluster.isPrimary)
+if (cluster.isPrimary){
+  console.log("PRIMARY ID :" ,process.pid);
+  const numberOfProcess = cpus().length
+  console.log("numero de procesadores: " + numberOfProcess);
+  for(let i = 1 ; i <= numberOfProcess; i++){
+    cluster.fork()  //proceso hijo primer servidor creado
+  }
+} else {
+  console.log("WORKER ID :",process.pid);
+  server.listen(PORT, ready); // son hijos del servidor creado
+}
 
+
+//swagger
+const specs = swaggerJSDoc(options)
+server.use("/api/docs", serve , setup(specs))
 //templates
 server.engine("handlebars", engine());
 server.set("view engine", "handlebars");
@@ -75,4 +101,6 @@ const router = new indexRouter();
 
 server.use("/", router.getRouter()); // => le pasamos el metodo getRouter() para que no de errores
 server.use(pathHandler);
-server.use(errorHandler); // no funciona
+server.use(errorHandler);
+
+console.log(args);

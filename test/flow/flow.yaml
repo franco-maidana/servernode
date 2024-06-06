@@ -1,0 +1,36 @@
+config:
+  pluggins:
+    metrics-by-endpoint: {}
+  target: http://localhost:8080/api
+  phases:
+    - duration: 20
+      arrivalRate: 50
+scenarios:
+  - name: login, create, read, destroy & signout
+    flow:
+      - log: login
+      - post:
+          url: /auth/login
+          json:
+            email: francomaidana094@gmail.com
+            password: hola1234
+      - log: create
+      - post:
+          url: /products
+          json:
+            title: productos random
+            photo: foto Random
+            price: 10
+            stock: 23
+          capture:
+            - json: "$.response._id"
+              as: pid
+      - log: read
+      - get:
+          url: /products/{{pid}}
+      - log: destroy
+      - delete:
+          url: /products/{{pid}}
+      - log: signout
+      - post:
+          url: /auth/signout

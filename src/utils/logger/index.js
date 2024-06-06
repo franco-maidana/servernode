@@ -8,9 +8,17 @@ switch (environment) {
     const { default: winstonProd } = await import("./winston.utils.js");
     logger = winstonProd;
     break;
-  default:
-    const { default: winstonTest } = await import("./winstonDev.utils.js");
+  case "dev":
+    const { default: winstonStart } = await import("./winston.utils.js");
+    logger = winstonStart;
+    break;
+  case "test":
+    const { default: winstonTest } = await import("./winston.utils.js");
     logger = winstonTest;
+    break;
+  default:
+    const { default: winstonDev } = await import("./winstonDev.utils.js");
+    logger = winstonDev;
     break;
 }
 

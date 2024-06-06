@@ -1,6 +1,5 @@
 import fs from "fs";
 import crypto from "crypto";
-import logger from "../../utils/logger/index.js";
 
 class ProductManager {
   static #productosGuardados = [];
@@ -12,6 +11,7 @@ class ProductManager {
 
   init() {
     const exist = fs.existsSync(this.path);
+    console.log(exist);
     if (!exist) {
       fs.writeFileSync(this.path, JSON.stringify([], null, 2));
     } else {
@@ -29,6 +29,7 @@ class ProductManager {
         JSON.stringify(ProductManager.#productosGuardados, null, 2),
         "utf-8"
       );
+      // console.log(newProduct);
       return data;
     } catch (error) {
       console.error(error.message);
@@ -41,6 +42,7 @@ class ProductManager {
       // const { filter, orderAndPaginate } = obj; => se destructura mas adelante
       const usersData = fs.readFileSync(this.path, "utf-8"); // Corregir la lectura del archivo
       const users = JSON.parse(usersData);
+      // console.log(users);
       return users;
     } catch (error) {
       console.error("Error al leer o parsear el archivo:", error.message);
@@ -54,11 +56,13 @@ class ProductManager {
         (each) => each._id === id
       );
       if (newProduct) {
+        console.log(newProduct);
         return newProduct;
       } else {
         throw new Error("producto no encontrado");
       }
     } catch (error) {
+      // console.log(error.message);
       return error.message;
     }
   }
@@ -75,13 +79,13 @@ class ProductManager {
           JSON.stringify(ProductManager.#productosGuardados, null, 2),
           "utf-8"
         );
-        logger.INFO("Producto eliminado:", id);
+        console.log("Producto eliminado:", id);
         return "Producto eliminado correctamente.";
       } else {
         throw new Error("Producto no encontrado");
       }
     } catch (error) {
-      logger.ERROR("Error al eliminar el producto:", error.message);
+      console.error("Error al eliminar el producto:", error.message);
       return error.message;
     }
   }
@@ -101,7 +105,7 @@ class ProductManager {
           JSON.stringify(ProductManager.#productosGuardados, null, 2),
           "utf-8"
         );
-        logger.INFO(
+        console.log(
           "Producto actualizado:",
           ProductManager.#productosGuardados[index]
         );

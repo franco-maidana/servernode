@@ -1,0 +1,61 @@
+[
+  {
+    "id": "09316417f4f4f6ec12b2bd25",
+    "text": "los mejores pantalones que me eh comprado!!!",
+    "user_id": "458268we58s58r9w",
+    "product_id": "585685s8e5848qr5s5"
+  },
+  {
+    "id": "6174af5e3bf59dd38021b30e",
+    "text": "Este producto es lo mas, ",
+    "user_id": "45826dkki658965875",
+    "product_id": "55982s8yy87989w5"
+  },
+  {
+    "id": "67585bfd544c8ae7f79c03ef"
+  },
+  {
+    "id": "1225a4432032f7e418e5061b"
+  },
+  {
+    "id": "0bf1f928dbb8db4be9b8245c"
+  },
+  {
+    "id": "5c4afcb7c1a11b174e6528af",
+    "user_id": "65ff8be49dbda97c01f636c0"
+  },
+  {
+    "id": "d0a7f9dfa539bb2ec615daec",
+    "user_id": "65ff8be49dbda97c01f636c0"
+  },
+  {
+    "id": "c7e26a2a7893982247151470",
+    "user_id": "65ff8be49dbda97c01f636c0"
+  },
+  {
+    "_id": "9f8bbcd8ce3f1a32c65d035c",
+    "createdAt": "2024-04-01T02:08:32.130Z",
+    "updatedAt": "2024-04-01T02:08:32.130Z",
+    "user_id": "65ff8be49dbda97c01f636c0"
+  },
+  {
+    "_id": "eed03706b84a018c547a9589",
+    "createdAt": "2024-04-01T02:09:15.968Z",
+    "updatedAt": "2024-04-01T02:09:15.968Z",
+    "user_id": "65ff8be49dbda97c01f636c0"
+  },
+  {
+    "_id": "3299af9302fa495f4207eeff",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "createdAt": "2024-04-01T02:11:09.297Z",
+    "updatedAt": "2024-04-01T02:11:09.297Z"
+  },
+  {
+    "_id": "94d95473f96f8cc36809d367",
+    "text": "la remera es de buena calidad",
+    "product_id": "65b8676bdfca4d95f3397431",
+    "user_id": "65ff8be49dbda97c01f636c0",
+    "createdAt": "2024-04-01T03:14:16.226Z",
+    "updatedAt": "2024-04-01T03:14:16.226Z"
+  }
+]

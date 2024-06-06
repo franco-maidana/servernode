@@ -10,7 +10,7 @@ class AuthControllers {
       return res.json({
         statusCode: 201,
         message: "Registered!",
-      });
+      });      
     } catch (error) {
       return next(error);
     }
@@ -29,6 +29,7 @@ class AuthControllers {
           .json({
             statusCode: 200,
             message: "Logged in!",
+            sessions: req.user,
           });
       });
     } catch (error) {

@@ -1,6 +1,6 @@
 import logger from "../utils/logger/index.js";
 
-export default (error, req, res, next) => {
+  const  errorHandler = (error, req, res, next) => {
   if (!error.statusCode || error.statusCode === 500) {
     error.statusCode = 500;
     logger.ERROR(error.message);
@@ -13,3 +13,5 @@ export default (error, req, res, next) => {
     message: error.message,
   });
 };
+
+export default errorHandler

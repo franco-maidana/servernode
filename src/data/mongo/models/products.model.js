@@ -1,4 +1,4 @@
-import { model, Schema } from "mongoose";
+import { model, Schema, Types } from "mongoose";
 import mongosePaginate from "mongoose-paginate-v2";
 
 const collection = "products";
@@ -11,6 +11,7 @@ const schema = new Schema(
     },
     price: { type: Number, required: true },
     stock: { type: Number, required: true },
+    owner_id: { type: Types.ObjectId, required: true, ref: "users" },
     date: { type: Date, default: new Date(), index: true },
   },
   { timestamps: true }

@@ -1,4 +1,3 @@
-// import { ordenManager } from "../data/mongo/manager.model.js";
 import OrdenRep from "../repositories/orders.repositories.js";
 import OrdersDTO from "../dto/orders.dto.js";
 
@@ -13,8 +12,16 @@ class OrdenService {
   };
   read = async ({ filter, ordenAndPaginate }) =>
     await this.OrdenRep.read({ filter, ordenAndPaginate });
-  report = async (id) => await this.OrdenRep.reportBill(id);
-  readOne = async (id) => await this.OrdenRep.readOne(id);
+
+  readOne = async (id) => {
+    try {
+      const response = await this.OrdenRep.readOne(id);
+      return response;
+    } catch (error) {
+      throw error;
+    }
+  };
+
   update = async (id, data) => {
     try {
       const opciones = { new: true }; // Esta opción devuelve el documento modificado en lugar del original

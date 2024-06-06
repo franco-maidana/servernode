@@ -23,15 +23,15 @@ class UsersControllers {
       const orderAndPaginate = {
         limit: req.query.limit || 10,
         page: req.query.page || 1,
-        sort: { title: 1 },
+        //sort: { name: 1 },
         lean: true,
       };
       const filter = {};
-      if (req.query.title) {
-        filter.title = new RegExp(req.query.title.trim(), "i");
+      if (req.query.email) {
+        filter.email = new RegExp(req.query.email.trim(), "i");
       }
-      if (req.query.sort === "desc") {
-        orderAndPaginate.sort.title = "desc";
+      if (req.query.name === "desc") {
+        orderAndPaginate.sort.name = -1;
       }
       const all = await this.service.read({ filter, orderAndPaginate });
       if (all.docs.length > 0) {
@@ -73,8 +73,26 @@ class UsersControllers {
     try {
       const { uid } = req.params;
       const data = req.body;
+      // Eliminar el campo 'role' del objeto de datos para evitar su modificación
+      delete data.role;
       const one = await this.service.update(uid, data);
       return res.success201(one);
+    } catch (error) {
+      return next(error);
+    }
+  };
+
+  updateRole = async (req, res, next) => {
+    try {
+      const { uid } = req.params;
+      const { role } = req.body;
+      const user = await this.service.readOne(uid);
+      if (!user) {
+        return res.success201(user);
+      }
+      user.role = role;
+      await user.save();
+      res.json(user);
     } catch (error) {
       return next(error);
     }
@@ -96,6 +114,7 @@ class UsersControllers {
 
 export default UsersControllers;
 const controllers = new UsersControllers();
-const { create, read, readOne, update, destroy, readByEmail } = controllers;
+const { create, read, readOne, update, destroy, updateRole, readByEmail } =
+  controllers;
 
-export { create, read, readOne, update, destroy, readByEmail };
+export { create, read, readOne, update, destroy, updateRole, readByEmail };

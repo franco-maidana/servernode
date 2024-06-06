@@ -7,7 +7,7 @@ export default class LoggerRouter extends CustomRouter {
       logger.HTTP("HTTP");
       logger.INFO("INFO");
       logger.ERROR("ERROR");
-      logger.FATAL("FATAL");
+      logger.WARN("WARN");
       res.send("TEST LOGGER");
     });
   }

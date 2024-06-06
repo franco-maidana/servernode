@@ -1,5 +1,6 @@
 export default (req, res, next) => {
   try {
+    // console.log(req.user)
     const { role } = req.user;
     if (role === 1) {
       return next();

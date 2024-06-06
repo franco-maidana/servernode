@@ -7,6 +7,7 @@ selector.addEventListener("click", async () => {
       price: document.querySelector("#Price").value,
       stock: document.querySelector("#Stock").value,
     };
+    console.log(data);
     const opts = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -14,6 +15,7 @@ selector.addEventListener("click", async () => {
     };
     let response = await fetch("/products/real", opts); // Espera a que se resuelva la promesa
     response = await response.json(); // Convierte la respuesta a JSON
+    // console.log(response);
     alert(response.message);
     response.session && location.replace("/products");
   } catch (error) {

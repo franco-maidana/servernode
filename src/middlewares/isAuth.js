@@ -1,7 +1,7 @@
 // esta autenticado ??
 import { verifytoken } from "../utils/token.util.js";
 
-export default (req, res, next) => {
+const isAuth = (req, res, next) => {
   try {
     const token = req.cookies.token;
     const userData = verifytoken(token);
@@ -16,3 +16,5 @@ export default (req, res, next) => {
     return next(error);
   }
 };
+
+export default isAuth

@@ -39,9 +39,7 @@ switch (environment) {
     dbconnection();
     logger.INFO("MONGO CONNECTED");
     // me traigo las ordenes de mongo y los renombros despues los mando por dao MONGO CONECT TENDRIA QUE IR ACA
-    const { default: productsMongo } = await import(
-      "./mongo/products.mongo.js"
-    );
+    const { default: productsMongo } = await import("./mongo/products.mongo.js");
     const { default: usersMongo } = await import("./mongo/users.mongo.js");
     const { default: ordersMongo } = await import("./mongo/orders.mongo.js"); //metodo readOne ver me trae todas las orders
     dao = {
@@ -55,5 +53,5 @@ switch (environment) {
     break;
 }
 
-export default dao;
+export default dao
 // lo exportamos al archivo repoositories

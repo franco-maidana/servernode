@@ -1,4 +1,3 @@
-// import { Usuarios } from "../data/mongo/manager.model.js";
 import UsuarioRepositorio from "../repositories/users.repositories.js";
 import sendEmail from "../utils/sendEmail.util.js";
 

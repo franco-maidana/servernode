@@ -1,0 +1,82 @@
+components:
+  schemas:
+    Products:
+      type: object
+      properties:
+        title:
+          type: string
+          description: Name of the products
+        photo:
+          type: string
+          description: Photo of the products
+        price:
+          type: string
+          description: Price of the products
+        stock:
+          type: string
+          description: Stock of the products
+      example:
+        title: Camisa Lisa
+        photo: https://cdn-icons-png.flaticon.com/512/6596/6596121.png
+        price: 15
+        stock: 10
+  securitySchemes:
+    cookiesAuth:
+      type: apiKey
+      in: cookie
+      name: token
+  responses:
+    res201:
+      type: object
+      properties:
+        status:
+          type: string
+          description: Successful Code
+        payload:
+          type: object
+          properties:
+            _id:
+              type: string
+              description: detail of the property
+            title:
+              type: string
+              description: detail of the property
+            photo:
+              type: string
+              description: detail of the property
+            price:
+              type: string
+              description: detail of the property
+            stock:
+              type: string
+              description: detail of the property
+          description: Data of the registered products
+      example:
+        status: success
+        payload:
+          _id: 65b868c2dfca4d95f3397443
+          title: Camisa
+          photo: https://cdn-icons-png.flaticon.com/512/6596/6596121.png
+          price: 15
+          stock: 10
+paths:
+  /api/products:
+    post:
+      summary: To create a products
+      tags:
+        - products
+      security:
+        - cookiesAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/Products'
+      responses:
+        '201':
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/responses/res201'

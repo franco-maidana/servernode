@@ -5,4 +5,1615 @@
 [31mERROR[39m: ERROR
 [31mERROR[39m: ERROR
 [31mERROR[39m: ERROR
+[33mWARN[39m: GET /api/orderssss not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[33mWARN[39m: POST /api/prodcuts not found path
+[33mWARN[39m: GET /version?timeout=32s not found path
+[33mWARN[39m: GET /version?timeout=32s not found path
+[33mWARN[39m: GET /version?timeout=32s not found path
+[33mWARN[39m: GET /version?timeout=32s not found path
+[33mWARN[39m: GET /version?timeout=32s not found path
+[33mWARN[39m: GET /version?timeout=32s not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/login not found path
+[33mWARN[39m: POST /api/session/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: OrderMongo.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: OrderMongo.read is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/signout not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /users/users/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: DELETE /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/sessions/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/sessions/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/sessions/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/sessions/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/sessions/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[31mERROR[39m: Failed to serialize user into session
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
 [33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Failed to serialize user into session
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/session/register not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/badauth not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/badauth not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of null (reading 'verifiedCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'readByEmail')
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'statusCode')
+[31mERROR[39m: Cannot read properties of undefined (reading 'statusCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'statusCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'statusCode')
+[31mERROR[39m: Cannot read properties of undefined (reading 'statusCode')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Operation `products.countDocuments()` buffering timed out after 10000ms
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Operation `products.countDocuments()` buffering timed out after 10000ms
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /Random not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: POST /users/register not found path
+[33mWARN[39m: POST /users/register not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: POST /api/auth/register not found path
+[33mWARN[39m: POST /api/auth/ not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/auth/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: opt is not defined
+[31mERROR[39m: opt is not defined
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: POST /api/auth/signout not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: CustomError is not defined
+[31mERROR[39m: Cannot read properties of null (reading 'password')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'read')
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: CustomError is not defined
+[31mERROR[39m: CustomError is not defined
+[31mERROR[39m: CustomError is not defined
+[31mERROR[39m: CustomError is not defined
+[31mERROR[39m: orders is not defined
+[31mERROR[39m: orders is not defined
+[31mERROR[39m: CustomError is not defined
+[31mERROR[39m: errors is not defined
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: GET /api/orders/total/664e52da1886542891bd1830 not found path
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cast to ObjectId failed for value "bills" (type string) at path "_id" for model "orders"
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+[33mWARN[39m: GET /api/orders/total/664e52da1886542891bd1830 not found path
+[31mERROR[39m: Cast to ObjectId failed for value "total" (type string) at path "_id" for model "orders"
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[31mERROR[39m: this.OrderService.report is not a function
+[31mERROR[39m: Cast to ObjectId failed for value "total" (type string) at path "_id" for model "orders"
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cast to ObjectId failed for value "bills" (type string) at path "_id" for model "orders"
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: ObjectId is not defined
+[31mERROR[39m: this.OrdenRep.reportBill is not a function
+[31mERROR[39m: this.OrderService.report is not a function
+[31mERROR[39m: this.OrderService.report is not a function
+[31mERROR[39m: OrderModel is not defined
+[31mERROR[39m: this.OrdenRep.findById is not a function
+[31mERROR[39m: Order not found
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Types is not defined
+[31mERROR[39m: this.model.aggregate is not a function
+[31mERROR[39m: ordenes.aggregate is not a function
+[31mERROR[39m: this.OrdenRep.report is not a function
+[31mERROR[39m: orders is not defined
+[33mWARN[39m: GET /api/orders/total/664e52da1886542891bd1830 not found path
+[31mERROR[39m: orders is not defined
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cast to ObjectId failed for value "bills" (type string) at path "_id" for model "orders"
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /api/prodcuts?titlel=campera not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Unrecognized expression '$arrayElement'
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cast to ObjectId failed for value "bills" (type string) at path "_id" for model "orders"
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cast to ObjectId failed for value "bills" (type string) at path "_id" for model "orders"
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cast to ObjectId failed for value "bills664d479f7c7d44b840a42ffc" (type string) at path "_id" for model "orders"
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: arrayOfPolicies.includes is not a function
+[31mERROR[39m: Cannot destructure property 'user_id' of 'req.user_id' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'user_id' of 'req.sessions' as it is undefined.
+[31mERROR[39m: Cannot destructure property 'user_id' of 'req.user_id' as it is undefined.
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[31mERROR[39m: El ID no es válido
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[31mERROR[39m: Cannot read properties of undefined (reading 'readOne')
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[31mERROR[39m: orders is not defined
+[31mERROR[39m: orders is not defined
+[31mERROR[39m: orders is not defined
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[31mERROR[39m: Cast to ObjectId failed for value ":" (type string) at path "_id" for model "orders"
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[31mERROR[39m: Cannot read properties of undefined (reading 'token')
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: Not Found docs!
+[33mWARN[39m: POST /api/auth/login not found path
+[33mWARN[39m: POST /api/auth/login not found path
+[33mWARN[39m: POST /api/auth/login not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /style=%22width: not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: GET /favicon.ico not found path
+[33mWARN[39m: POST /api/auth/login not found path
