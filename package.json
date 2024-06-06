@@ -5,7 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "nodemon ./server.js",
+    "start": "node ./server.js",
     "dev": "nodemon ./server.js --env dev",
     "test": "nodemon ./server.js --env test",
     "simple": "artillery quick --count 40 --num 50 'http://localhost:8081/simplex' -o ./test/quick/simplex.json",
