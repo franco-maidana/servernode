@@ -32,9 +32,7 @@ class ProductsControllers {
       if (req.query.sort === "desc") {
         orderAndPaginate.sort.title = "desc";
       }
-
       const all = await this.service.read({ filter, orderAndPaginate });
-      console.log("esto es all ", all);
       if (all.docs.length > 0) {
         return res.success200(all);
       }

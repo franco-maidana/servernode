@@ -10,7 +10,6 @@ class CommentsManager {
 
   init() {
     const exist = fs.existsSync(this.path);
-    console.log(exist);
     if (!exist) {
       fs.writeFileSync(this.path, JSON.stringify([], null, 2));
     } else {
@@ -28,7 +27,6 @@ class CommentsManager {
         JSON.stringify(CommentsManager.CommentsGuardado, null, 2),
         "utf-8"
       );
-      // console.log(newComments);
       return data;
     } catch (error) {
       console.error(error);
@@ -54,7 +52,6 @@ class CommentsManager {
         (each) => each._id === id
       );
       if (one) {
-        console.log("ACA ESTAN TODOS LOS COMENTARIOS", one);
         return one;
       } else {
         throw new Error("Comentarios no encontrados");
@@ -80,7 +77,6 @@ class CommentsManager {
           "utf-8"
         );
         const one = CommentsManager.CommentsGuardado[index];
-        console.log("Producto actualizado:", one);
         return one;
       }
       throw new Error("Producto no encontrado");
@@ -116,25 +112,3 @@ class CommentsManager {
 const comentarios = new CommentsManager("./src/data/fs/files/comentarios.json");
 export default comentarios;
 
-// comentarios
-//   .create({
-//     text: "Este producto es lo mas, ",
-//     user_id: "45826dkki658965875",
-//     product_id: "55982s8yy87989w5",
-//   })
-//   .then((resultado) => {
-//     console.log("Comentario agregado:", resultado);
-//   })
-//   .catch((error) => {
-//     console.error("Error al agregar el comentario:", error);
-//   });  => FUNCIONA
-
-// comentarios.readOne("6174af5e3bf59dd38021b30e"); => FUNCIONA
-
-// const id = "09316417f4f4f6ec12b2bd25";
-// const comentarioModificado = {
-//   text: "los mejores pantalones que me eh comprado!!!",
-// };
-// comentarios.upDate(id, comentarioModificado); => FUNCIONA
-
-// comentarios.destroy("efa2ef227ce29dc972399eb5"); => FUNCIONA

@@ -1,11 +1,13 @@
+import logger from "./logger";
+
 process.on("exit", (code) =>
-  console.log("el proceso termino con codigo " + code)
+  logger.INFO("el proceso termino con codigo " + code)
 );
 
 process.on("uncaughtException", (error) =>
-  console.log("ha ocurrido un Error: " + error.message)
+  logger.INFO("ha ocurrido un Error: " + error.message)
 );
 
-console.log(process.pid);
+logger.INFO(process.pid);
 process.pid();
 process.exit(1);

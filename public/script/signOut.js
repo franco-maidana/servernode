@@ -1,3 +1,5 @@
+import logger from "../../src/utils/logger";
+
 document.querySelector("#signOut").addEventListener("click", async () => {
   try {
     const token = localStorage.getItem("token");
@@ -13,6 +15,6 @@ document.querySelector("#signOut").addEventListener("click", async () => {
       location.replace("/");
     }
   } catch (error) {
-    console.log(error);
+    logger.ERROR(error);
   }
 });

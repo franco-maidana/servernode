@@ -9,7 +9,6 @@ class OrdersManager {
 
   init() {
     const exist = fs.existsSync(this.path);
-    console.log(exist);
     if (!exist) {
       fs.writeFileSync(this.path, JSON.stringify([], null, 2));
     } else {
@@ -34,7 +33,6 @@ class OrdersManager {
     try {
       const ordersData = await fs.promises.readFile(this.path, "utf-8");
       const orders = JSON.parse(ordersData);
-      console.log(orders);
       return orders;
     } catch (error) {
       console.error("Error reading orders:", error.message);
@@ -48,7 +46,6 @@ class OrdersManager {
         (order) => order._id === id
       );
       if (order) {
-        console.log(order);
         return order;
       } else {
         throw new Error("Orden no encontrada");

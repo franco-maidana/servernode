@@ -9,7 +9,6 @@ selector.addEventListener("click", async () => {
       password: document.querySelector("#Password").value,
       photo: document.querySelector("#Photo").value,
     };
-    console.log(data);
     const opts = {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -17,7 +16,6 @@ selector.addEventListener("click", async () => {
     };
     let response = await fetch("/api/auth/register", opts);
     response = await response.json();
-    console.log(response);
     response.statusCode === 201
       ? location.replace("/users/login")
       : alert("ERROR: " + response.message);

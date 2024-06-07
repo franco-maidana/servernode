@@ -17,7 +17,6 @@ describe("Testeando users", () => {
   it("Registro de un usuario correctamente", async () => {
     const response = await requester.post("/sessions/register").send(user);
     const { _body, statusCode } = response;
-    console.log("Esto es body", {_body, statusCode});
     expect(statusCode).to.be.equals(201);
   });
   

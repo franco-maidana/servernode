@@ -10,7 +10,6 @@ class ComentarioManager {
         users_id: data.users_id,
       };
       ComentarioManager.Comentarios.push(nuevoComentario);
-      // console.log(" ESTE ES EL NUEVO COMENTARIO", nuevoComentario);
       return nuevoComentario.id;
     } catch (error) {
       throw error;
@@ -34,7 +33,6 @@ class ComentarioManager {
   readOne(id) {
     try {
       const one = ComentarioManager.Comentarios.find((each) => each.id === id);
-      console.log("ESTO ES ONE", one);
       if (!one) {
         const error = new Error("NOT FOUND!");
         error.statusCode = 404;
@@ -105,14 +103,3 @@ comentario.create({
   users_id: "879842kd4s57845s8e24s8",
 });
 
-console.log(comentario.read());
-console.log("BUSCAMOS EL PRIMER COMENTARIO POR EL ID", comentario.readOne(2));
-
-const ComentarioModificado = comentario.readOne(2);
-console.log(ComentarioModificado);
-const ComentarioActualizado = comentario.upDate(ComentarioModificado.id, {
-  text: "muchas gracias por contestar",
-});
-console.log(ComentarioActualizado);
-console.log("cometario eliminado", comentario.destroy(2));
-console.log("lista nueva de comentarios", comentario.read());

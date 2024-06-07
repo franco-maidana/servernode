@@ -12,7 +12,6 @@ ordenRouter.get(
     try {
       let filter = {};
       let orderAndPaginate = { lean: true };
-      // console.log("esto es req.user ", req.user);
       filter = { user_id: req.user._id };
 
       if (req.order) {
@@ -23,7 +22,6 @@ ordenRouter.get(
         }
       }
       const all = await Orden.read({ filter, orderAndPaginate });
-      console.log("ESTO ES ALL", all);
       return res.render("orders", { orders: all.docs });
     } catch (error) {
       return next(error);

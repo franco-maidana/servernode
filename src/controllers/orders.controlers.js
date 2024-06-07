@@ -33,8 +33,6 @@ class OrdersControllers {
       if (req.query.sort === "desc") {
         orderAndPaginate.sort.title = "desc";
       }
-
-      console.log("Entró aquí");
       const all = await this.OrderService.read({ filter, orderAndPaginate });
       if (all.docs.length > 0) {
         return res.success200(all);
@@ -49,7 +47,6 @@ class OrdersControllers {
     try {
       const { uid } = req.params;
       const all = await this.OrderService.readOne(uid);
-      console.log("Esto es all ",all)
       if (all) {
         return res.success200(all);
       }

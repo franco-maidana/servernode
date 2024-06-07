@@ -4,7 +4,6 @@ import dao from "../../src/data/index.factory.js";
 import { Types } from "mongoose";
 const { usuarios } = dao;
 
-console.log("usuarios",usuarios)
 
 describe("Testeando Modelo usuarios",()=>{
     const model = usuarios;

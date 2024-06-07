@@ -7,7 +7,6 @@ const { usuarios } = dao;
 
 describe("Testeando Modelo Usuarios", () => {
   const model = new usuarios();
-  console.log("Esto es el model",model); // Debería imprimir una instancia del modelo
 
   const data = {
     name: "Franco",

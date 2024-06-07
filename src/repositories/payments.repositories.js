@@ -8,7 +8,7 @@
   const checkoutRepository = async (filter) => {
   try {
     let productsOnCart = await ordenes.read(filter);
-    console.log("Esto es products id", productsOnCart);
+
 
     const line_items = productsOnCart.docs.map((product) => {
       const productId = product.products_id;
@@ -17,7 +17,6 @@
       const price = productId.price;
       return new CheckoutProduct(product, price, title, quantity);
     });
-    console.log(line_items);
     const mode = "payment";
     const success_url = "http://localhost:8080/";
     const intent = await stripe.checkout.sessions.create({

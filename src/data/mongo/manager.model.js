@@ -80,13 +80,8 @@ class MongoManager {
   }
 
   async update(id, data) {
-    console.log("esto es el id ", id);
-    console.log("esto es el data ", data);
     try {
-      //const opt = { new: true };
-      //console.log("esto es opt", opt);
       const one = await this.model.findByIdAndUpdate(id, data, {new: true});
-      console.log("one", one);
       return one;
     } catch (error) {
       throw error;
@@ -114,7 +109,6 @@ class MongoManager {
   async stats({ filter }) {
     try {
       let stats = await this.model.find(filter).explain("executionStats");
-      console.log(stats);
       stats = {
         quantity: stats.executionStats.nReturned,
         time: stats.executionStats.executionTimeMillis,

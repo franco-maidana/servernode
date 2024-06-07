@@ -1,4 +1,4 @@
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'; // provisorio por no tener el certificado SSL en la PC 
+//process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'; // provisorio por no tener el certificado SSL en la PC 
 //desactivará la verificación de certificados para todas las conexiones TLS en tu aplicación. Aquí está cómo se vería:
 import env from "./src/utils/env.utils.js";
 import express from "express";
@@ -35,16 +35,16 @@ const ready = () => {
 //server.listen(PORT, ready);
 
 // Cluster
-console.log(cluster.isPrimary)
+logger.INFO(cluster.isPrimary)
 if (cluster.isPrimary){
-  console.log("PRIMARY ID :" ,process.pid);
+  logger.INFO("PRIMARY ID :" ,process.pid);
   const numberOfProcess = cpus().length
-  console.log("numero de procesadores: " + numberOfProcess);
+  logger.INFO("numero de procesadores: " + numberOfProcess);
   for(let i = 1 ; i <= numberOfProcess; i++){
     cluster.fork()  //proceso hijo primer servidor creado
   }
 } else {
-  console.log("WORKER ID :",process.pid);
+  logger.INFO("WORKER ID :",process.pid);
   server.listen(PORT, ready); // son hijos del servidor creado
 }
 
